@@ -1,6 +1,8 @@
 package com.example.listakotlin
 
 fun main() {
+    
+    // Lista Imutaveis
     val numbers = listOf(1, 2, 3, 4, 5, 6)
     println("List: $numbers")
     println("Size: ${numbers.size}")
